@@ -8,6 +8,7 @@ public class Lab001 {
        /* System.out.println( "hi");
         System.out.println(4-2);*/ //multiline comment
         System.out.println("Hi Minakshi");
+        System.out.println("hello");
     }
 
 }

@@ -1,6 +1,6 @@
 package typecasting;
 
-public class Lab007 {
+public class Lab07 {
     public static void main(String[] args) {
         //   = and  ==
         int a = 10; // Assign the value to the variable.

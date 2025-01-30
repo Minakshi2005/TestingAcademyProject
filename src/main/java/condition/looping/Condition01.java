@@ -1,6 +1,7 @@
 package condition.looping;
 
-public class Lab01 {
+public class Condition01
+{
     public static void main(String[] args) {
 
         // condition ? expression_if_true : expression_if_false

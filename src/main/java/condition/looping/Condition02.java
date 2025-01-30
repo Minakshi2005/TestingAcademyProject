@@ -1,6 +1,6 @@
 package condition.looping;
 
-public class Lab02 {
+public class Condition02 {
     public static void main(String[] args) {
 
         int salary1=100;

@@ -1,4 +1,4 @@
-package condition.looping;
+package loops;
 
 public class Whileloop02 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package condition.looping;
+package tasks;
 
 public class Task01 {
     public static void main(String[] args) {

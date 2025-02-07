@@ -1,4 +1,4 @@
-package condition.looping;
+package loops;
 
 public class ForLoop03 {
     public static void main(String[] args) {

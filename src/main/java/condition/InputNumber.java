@@ -1,4 +1,4 @@
-package condition.looping;
+package condition;
 import java.util.Scanner;
 public class InputNumber {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package condition.looping;
+package condition;
 
 public class Condition01
 {

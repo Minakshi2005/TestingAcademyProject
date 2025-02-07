@@ -1,4 +1,4 @@
-package condition.looping;
+package condition;
 
 public class Switch04 {
     public static void main(String[] args) {
